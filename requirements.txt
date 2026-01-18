@@ -1,0 +1,10 @@
+torch
+torchaudio
+transformers
+accelerate
+gradio
+sentencepiece
+numpy
+scipy
+soundfile
+ffmpeg-python
